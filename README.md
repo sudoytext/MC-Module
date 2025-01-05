@@ -41,8 +41,8 @@ Before running the project, ensure you have the following installed on your syst
 ### **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/minecraft-pvp-client.git
-   cd minecraft-pvp-client
+   git clone https://github.com/sudoytext/MC-Module.git
+   cd MC-Module
    ```
 2. Build the project using your preferred build tool (e.g., Maven or Gradle).  
    Example for Gradle:
